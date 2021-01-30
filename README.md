@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=1TH6rY_Ehlm-No20JXQE39Q1aYQSAibS5)](https://khushboogoel01.github.io)
+[![MasterHead](https://drive.google.com/uc?id=1TI_zoNRfhbaLJptLqraQfAJ0gXkB40no)](https://facticburner.blogspot.com/p/about-us.html?m=1])
 
 <h1 align="center">Hi 👋, I'm Smruti Prakash Rout</h1>
 <h3 align="center">I'm passionate about programming and love to learn different skils . I am learner and full stack developer.</h3>
@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-official&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-official" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1447870/screenshots/6163011/comp_1.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smruti-official" alt="smruti-official" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -44,4 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smruti-official&show_icons=true&locale=en" alt="smruti-official" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smruti-official&" alt="smruti-official" /></p>
-
