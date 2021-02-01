@@ -23,11 +23,13 @@
 
 - 💬 Ask me about **Python,html,css,js**
 
-- 📫 How to reach me **smrutiprakashr0@gmail.com**
+
+
 
 - ⚡ Fun fact **I think i am a quick learner and funny type person.**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **smrutiprakashr0@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/smruti56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smruti56" height="30" width="40" /></a>
 <a href="https://fb.com/sidharth.rout.180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sidharth.rout.180" height="30" width="40" /></a>
